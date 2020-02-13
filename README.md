@@ -1,6 +1,7 @@
 # Charles Bracebridge connections
 | Alter  | Reference|
 | ------------- |------------- |
+| [Selina Bracebridge](https://github.com/altealo/SelinaBracebridge/blob/master/README.md)  |[Wikipedia. *Selina Bracebridge.*](https://en.wikipedia.org/wiki/Selina_Bracebridge)|
 | [Mary Clarke/Mohl](https://github.com/altealo/MaryClarke/blob/master/README.md)  |[McDonald, L. *Florence Nightingale on Women, Medicine, Midwifery and Prostitution.*](https://books.google.co.uk/books?id=Yuh0CwAAQBAJ&pg=PR11&lpg=PR11&dq=julius+mohl+and+charles+bracebridge&source=bl&ots=DOBLqz_Xo9&sig=ACfU3U25SerzdrMuqGjPUirFJ9oTvBFcDQ&hl=en&sa=X&ved=2ahUKEwik3OKQhd7kAhV-REEAHXUECNYQ6AEwA3oECAgQAQ#v=onepage&q=mohl%20bracebridge&f=false)|
 | [Fanny Nightingale](https://github.com/altealo/FannyNightingale/blob/master/README.md)  |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
 | [William Nightingale](https://github.com/altealo/WilliamNightingale/blob/master/README.md)  |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
