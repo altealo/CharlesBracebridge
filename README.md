@@ -1,4 +1,5 @@
 # Charles Bracebridge connections
+Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
 | [Selina Bracebridge](https://github.com/altealo/SelinaBracebridge/blob/master/README.md)  |[Wikipedia. *Selina Bracebridge.*](https://en.wikipedia.org/wiki/Selina_Bracebridge)|
