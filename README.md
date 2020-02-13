@@ -3,6 +3,7 @@ Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
 | [Selina Bracebridge](https://github.com/altealo/SelinaBracebridge/blob/master/README.md)  |[Wikipedia. *Selina Bracebridge.*](https://en.wikipedia.org/wiki/Selina_Bracebridge)|
+| [Edwin Chadwick](https://github.com/altealo/EdwinChadwick/blob/master/README.md)|[Diamond, M. & Stone, M. *Nightingale on Quetelet.*](https://www.jstor.org/stable/2982160?seq=1#page_scan_tab_contents)|
 | [Sir James Clark](https://github.com/altealo/JamesClark/blob/master/README.md)|[Welcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Sidney Herbert](https://github.com/altealo/SidneyHerbert/blob/master/README.md)  |[Welcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Benjamin Jowett](https://github.com/altealo/BenjaminJowett/blob/master/README.md)  |[Balliol College Archives & Manuscripts. *Jowett Papers - Group III Class N .*](http://archives.balliol.ox.ac.uk/Modern%20Papers/Jowett/jowett-cat3n.asp)|
